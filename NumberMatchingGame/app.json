@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-number-puzzle-app",
-    "slug": "rn-number-puzzle-app",
+    "name": "NumberMatchingGame",
+    "slug": "NumberMatchingGame",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
